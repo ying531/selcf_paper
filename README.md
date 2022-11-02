@@ -1,5 +1,5 @@
 # selcf_paper
-This repository contains the Python code to reproduce the results in Selection by Prediction paper.
+This repository contains the Python code to reproduce the results in our paper [Selection by Prediction with Conformal p-values](https://arxiv.org/abs/2210.01408).
 
 
 
